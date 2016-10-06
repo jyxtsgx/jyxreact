@@ -4,6 +4,6 @@
 
 ReactDOM.render(
 
-    <h1>你好阿</h1>,
+    <h1>为何不能push你好阿</h1>,
     document.getElementById('app')
 );
