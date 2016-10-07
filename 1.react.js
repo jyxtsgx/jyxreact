@@ -3,7 +3,9 @@
  */
 
 ReactDOM.render(
+    <div>
 
-    <h1>为何不能push你好阿</h1>,
+    <h1>为何不能push你好阿</h1><h1>为何不能push你好阿</h1><h1>为何不能push你好阿</h1>
+    </div>,
     document.getElementById('app')
 );
